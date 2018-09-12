@@ -10,7 +10,7 @@
 자동으로 README.md 파일이 생성되었다고 가정하면, 저장소 목록에서 README.md 파일을 볼 수 있으며 GitHub 자체적으로 이 Markdown 형식 파일을 렌더링하여 화면에 보여줍니다.
 
 # Collaborators
-***
+
 장소의 소유자는 필요한 경우 해당 저장소의 코드와 관리를 할 수 있는 다른 사용자를 Collaborator로서 등록할 수 있습니다.
 Settings 탭의 Collaborators항목을 선택하면 해당 저장소에서 같이 협업할 수 있는 사용자를 추가하고 관리할 수 있습니다.
 
